@@ -1,2 +1,2 @@
-# jcode
-My Coding Language
+# JustCode
+This Is my coding language
